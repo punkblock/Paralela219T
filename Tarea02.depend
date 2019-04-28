@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1556425665 source:c:\users\kevin\desktop\paralela\tarea02\tarea02\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<math.h>
+	<string>
+
